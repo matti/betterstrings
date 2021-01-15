@@ -1,0 +1,3 @@
+# betterstrings
+
+See [examples](examples)
